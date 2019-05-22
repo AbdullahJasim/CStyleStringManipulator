@@ -1,7 +1,2 @@
-﻿  CStyleStringManipulation.cpp
-  Manipulator.cpp
-c:\users\minta\source\repos\cstylestringmanipulation\cstylestringmanipulation\manipulator.cpp(9): warning C4018: '>': signed/unsigned mismatch
-c:\users\minta\source\repos\cstylestringmanipulation\cstylestringmanipulation\manipulator.cpp(26): warning C4018: '<': signed/unsigned mismatch
-c:\users\minta\source\repos\cstylestringmanipulation\cstylestringmanipulation\manipulator.cpp(46): warning C4018: '<': signed/unsigned mismatch
-  Generating Code...
+﻿  StringHolder.cpp
   CStyleStringManipulation.vcxproj -> C:\Users\minta\Source\Repos\CStyleStringManipulation\Debug\CStyleStringManipulation.exe
